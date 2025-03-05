@@ -1,0 +1,15 @@
+C:\Programação\cse210-hw\week01\Exercise3\obj\Debug\net9.0\Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\cse210-hw\week01\Exercise3\obj\Debug\net9.0\Exercise3.AssemblyInfoInputs.cache
+C:\Programação\cse210-hw\week01\Exercise3\obj\Debug\net9.0\Exercise3.AssemblyInfo.cs
+C:\Programação\cse210-hw\week01\Exercise3\obj\Debug\net9.0\Exercise3.csproj.CoreCompileInputs.cache
+C:\Programação\cse210-hw\week01\Exercise3\obj\Debug\net9.0\Exercise3.sourcelink.json
+C:\Programação\cse210-hw\week01\Exercise3\bin\Debug\net9.0\Exercise3.exe
+C:\Programação\cse210-hw\week01\Exercise3\bin\Debug\net9.0\Exercise3.deps.json
+C:\Programação\cse210-hw\week01\Exercise3\bin\Debug\net9.0\Exercise3.runtimeconfig.json
+C:\Programação\cse210-hw\week01\Exercise3\bin\Debug\net9.0\Exercise3.dll
+C:\Programação\cse210-hw\week01\Exercise3\bin\Debug\net9.0\Exercise3.pdb
+C:\Programação\cse210-hw\week01\Exercise3\obj\Debug\net9.0\Exercise3.dll
+C:\Programação\cse210-hw\week01\Exercise3\obj\Debug\net9.0\refint\Exercise3.dll
+C:\Programação\cse210-hw\week01\Exercise3\obj\Debug\net9.0\Exercise3.pdb
+C:\Programação\cse210-hw\week01\Exercise3\obj\Debug\net9.0\Exercise3.genruntimeconfig.cache
+C:\Programação\cse210-hw\week01\Exercise3\obj\Debug\net9.0\ref\Exercise3.dll
