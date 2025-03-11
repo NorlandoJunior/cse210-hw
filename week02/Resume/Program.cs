@@ -1,13 +1,18 @@
-﻿using System;
+﻿    using System;
+    using Resume;
 
 
-class Program {
+    class Program {
 
-    static void Main(string[] args)
-    {
+        static void Main(string[] args)
+        {
 
-        job1. _jobTitle = "Software Engineer";
-        job2. _jobTitle = "IT Engineer";
-        job3. _jobTitle = "Developer";
+            Job job1 = new Job("Software Engineer", "Microsoft", 2019, 2022);
+            Job job2 = new Job("Manager", "Apple", 2022, 2023);
+
+            job1.DisplayJob();
+            job2.DisplayJob();
+
+            
+        }
     }
-}
