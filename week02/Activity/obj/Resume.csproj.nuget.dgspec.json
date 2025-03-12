@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programação\\cse210-hw\\week02\\resume\\Resume.csproj": {}
+    "C:\\Programação\\cse210-hw\\week02\\Activity\\Resume.csproj": {}
   },
   "projects": {
-    "C:\\Programação\\cse210-hw\\week02\\resume\\Resume.csproj": {
+    "C:\\Programação\\cse210-hw\\week02\\Activity\\Resume.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programação\\cse210-hw\\week02\\resume\\Resume.csproj",
+        "projectUniqueName": "C:\\Programação\\cse210-hw\\week02\\Activity\\Resume.csproj",
         "projectName": "Resume",
-        "projectPath": "C:\\Programação\\cse210-hw\\week02\\resume\\Resume.csproj",
+        "projectPath": "C:\\Programação\\cse210-hw\\week02\\Activity\\Resume.csproj",
         "packagesPath": "C:\\Users\\Norlando Junior\\.nuget\\packages\\",
-        "outputPath": "C:\\Programação\\cse210-hw\\week02\\resume\\obj\\",
+        "outputPath": "C:\\Programação\\cse210-hw\\week02\\Activity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Norlando Junior\\AppData\\Roaming\\NuGet\\NuGet.Config"
