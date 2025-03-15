@@ -1,0 +1,61 @@
+Meaning:
+Abstraction is a fundamental concept in object-oriented programming (OOP) that allows you to hide the 
+complex implementation details of a system and expose only the essential features to the user. In C#, 
+abstraction is typically implemented using abstract classes or interfaces. This helps reduce complexity 
+and allows the programmer to focus on the higher-level functionality without worrying about the internal 
+workings of a system.
+
+Benefits:
+One of the key benefits of abstraction is code simplicity. By hiding the complexity, it makes the 
+code more readable and easier to maintain. Developers can work with higher-level abstractions instead 
+of dealing with intricate details. Additionally, abstraction allows for code reusability by providing a 
+template that can be implemented in different ways without changing the structure.
+
+Application:
+For example, consider a class hierarchy where you have a Shape class with abstract methods like Draw(). 
+Different types of shapes (e.g., Circle, Rectangle) can implement these abstract methods differently, but 
+the user of the Shape class doesn't need to know the details. They can simply call Draw(), and the correct
+method for the specific shape will be executed.
+
+Code Example:
+public abstract class Shape
+{
+    public abstract void Draw();  // Abstract method
+}
+
+// Derived class for a Circle
+public class Circle : Shape
+{
+    public override void Draw()
+    {
+        Console.WriteLine("Drawing a Circle");
+    }
+}
+
+// Derived class for a Rectangle
+public class Rectangle : Shape
+{
+    public override void Draw()
+    {
+        Console.WriteLine("Drawing a Rectangle");
+    }
+}
+
+// Using the abstract class
+public class Program
+{
+    public static void Main()
+    {
+        Shape myShape = new Circle();  // Polymorphism in action
+        myShape.Draw();  // Output: Drawing a Circle
+
+        myShape = new Rectangle();  
+        myShape.Draw();  // Output: Drawing a Rectangle
+    }
+}
+
+Explanation:
+In the above code, Shape is an abstract class that defines an abstract method Draw(). This method is then 
+implemented by two derived classes, Circle and Rectangle, each providing its own implementation of Draw().
+This allows for abstraction because the user of the Shape class does not need to know how the drawing is 
+done internally—they just use the Draw() method, and the appropriate action is performed.

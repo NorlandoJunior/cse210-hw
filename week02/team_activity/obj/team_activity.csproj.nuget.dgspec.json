@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programação\\cse210-hw\\Week02\\team_activity\\team_activity.csproj": {}
+    "C:\\Programação\\cse210-hw\\week02\\team_activity\\team_activity.csproj": {}
   },
   "projects": {
-    "C:\\Programação\\cse210-hw\\Week02\\team_activity\\team_activity.csproj": {
+    "C:\\Programação\\cse210-hw\\week02\\team_activity\\team_activity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programação\\cse210-hw\\Week02\\team_activity\\team_activity.csproj",
+        "projectUniqueName": "C:\\Programação\\cse210-hw\\week02\\team_activity\\team_activity.csproj",
         "projectName": "team_activity",
-        "projectPath": "C:\\Programação\\cse210-hw\\Week02\\team_activity\\team_activity.csproj",
+        "projectPath": "C:\\Programação\\cse210-hw\\week02\\team_activity\\team_activity.csproj",
         "packagesPath": "C:\\Users\\Norlando Junior\\.nuget\\packages\\",
-        "outputPath": "C:\\Programação\\cse210-hw\\Week02\\team_activity\\obj\\",
+        "outputPath": "C:\\Programação\\cse210-hw\\week02\\team_activity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Norlando Junior\\AppData\\Roaming\\NuGet\\NuGet.Config"
