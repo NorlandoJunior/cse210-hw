@@ -1,0 +1,15 @@
+C:\Programação\cse210-hw\Week02\team_activity\obj\Debug\net9.0\team_activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\cse210-hw\Week02\team_activity\obj\Debug\net9.0\team_activity.AssemblyInfoInputs.cache
+C:\Programação\cse210-hw\Week02\team_activity\obj\Debug\net9.0\team_activity.AssemblyInfo.cs
+C:\Programação\cse210-hw\Week02\team_activity\obj\Debug\net9.0\team_activity.csproj.CoreCompileInputs.cache
+C:\Programação\cse210-hw\Week02\team_activity\obj\Debug\net9.0\team_activity.sourcelink.json
+C:\Programação\cse210-hw\Week02\team_activity\bin\Debug\net9.0\team_activity.exe
+C:\Programação\cse210-hw\Week02\team_activity\bin\Debug\net9.0\team_activity.deps.json
+C:\Programação\cse210-hw\Week02\team_activity\bin\Debug\net9.0\team_activity.runtimeconfig.json
+C:\Programação\cse210-hw\Week02\team_activity\bin\Debug\net9.0\team_activity.dll
+C:\Programação\cse210-hw\Week02\team_activity\bin\Debug\net9.0\team_activity.pdb
+C:\Programação\cse210-hw\Week02\team_activity\obj\Debug\net9.0\team_activity.dll
+C:\Programação\cse210-hw\Week02\team_activity\obj\Debug\net9.0\refint\team_activity.dll
+C:\Programação\cse210-hw\Week02\team_activity\obj\Debug\net9.0\team_activity.pdb
+C:\Programação\cse210-hw\Week02\team_activity\obj\Debug\net9.0\team_activity.genruntimeconfig.cache
+C:\Programação\cse210-hw\Week02\team_activity\obj\Debug\net9.0\ref\team_activity.dll
