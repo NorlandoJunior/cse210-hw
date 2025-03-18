@@ -1,0 +1,15 @@
+C:\Programação\cse210-hw\week03\Fractions\obj\Debug\net9.0\Fraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\cse210-hw\week03\Fractions\obj\Debug\net9.0\Fraction.AssemblyInfoInputs.cache
+C:\Programação\cse210-hw\week03\Fractions\obj\Debug\net9.0\Fraction.AssemblyInfo.cs
+C:\Programação\cse210-hw\week03\Fractions\obj\Debug\net9.0\Fraction.csproj.CoreCompileInputs.cache
+C:\Programação\cse210-hw\week03\Fractions\obj\Debug\net9.0\Fraction.sourcelink.json
+C:\Programação\cse210-hw\week03\Fractions\bin\Debug\net9.0\Fraction.exe
+C:\Programação\cse210-hw\week03\Fractions\bin\Debug\net9.0\Fraction.deps.json
+C:\Programação\cse210-hw\week03\Fractions\bin\Debug\net9.0\Fraction.runtimeconfig.json
+C:\Programação\cse210-hw\week03\Fractions\bin\Debug\net9.0\Fraction.dll
+C:\Programação\cse210-hw\week03\Fractions\bin\Debug\net9.0\Fraction.pdb
+C:\Programação\cse210-hw\week03\Fractions\obj\Debug\net9.0\Fraction.dll
+C:\Programação\cse210-hw\week03\Fractions\obj\Debug\net9.0\refint\Fraction.dll
+C:\Programação\cse210-hw\week03\Fractions\obj\Debug\net9.0\Fraction.pdb
+C:\Programação\cse210-hw\week03\Fractions\obj\Debug\net9.0\Fraction.genruntimeconfig.cache
+C:\Programação\cse210-hw\week03\Fractions\obj\Debug\net9.0\ref\Fraction.dll
