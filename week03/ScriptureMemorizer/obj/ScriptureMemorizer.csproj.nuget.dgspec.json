@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Programação\\cse210-hw\\week01\\Exercise2\\Exercise2.csproj": {}
+    "C:\\Programação\\cse210-hw\\week03\\ScriptureMemorizer\\ScriptureMemorizer.csproj": {}
   },
   "projects": {
-    "c:\\Programação\\cse210-hw\\week01\\Exercise2\\Exercise2.csproj": {
+    "C:\\Programação\\cse210-hw\\week03\\ScriptureMemorizer\\ScriptureMemorizer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Programação\\cse210-hw\\week01\\Exercise2\\Exercise2.csproj",
-        "projectName": "Exercise2",
-        "projectPath": "c:\\Programação\\cse210-hw\\week01\\Exercise2\\Exercise2.csproj",
+        "projectUniqueName": "C:\\Programação\\cse210-hw\\week03\\ScriptureMemorizer\\ScriptureMemorizer.csproj",
+        "projectName": "ScriptureMemorizer",
+        "projectPath": "C:\\Programação\\cse210-hw\\week03\\ScriptureMemorizer\\ScriptureMemorizer.csproj",
         "packagesPath": "C:\\Users\\Norlando Junior\\.nuget\\packages\\",
-        "outputPath": "c:\\Programação\\cse210-hw\\week01\\Exercise2\\obj\\",
+        "outputPath": "C:\\Programação\\cse210-hw\\week03\\ScriptureMemorizer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Norlando Junior\\AppData\\Roaming\\NuGet\\NuGet.Config"
