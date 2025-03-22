@@ -1,0 +1,73 @@
+What is encapsulation and its importance? 
+
+Encapsulation is a principle of object-oriented programming (OOP) that allows the grouping of data (attributes) and methods (functions) 
+that manipulate this data in a single unit or class. Furthermore, encapsulation also involves restricting direct access to some of the object's components, 
+aiming to avoid unwanted interference and control the way data is accessed or modified, 
+making use of access modifiers such as private, protected and public.
+
+Advantage of Encapsulation: One of the main positive points that encapsulation offers is data protection. 
+By restricting direct access to the object's internal data, encapsulation ensures that the data is only accessed 
+via controlled methods (getters and setters). This helps preserve data integrity and reduces the likelihood of errors in the 
+code that could occur when directly manipulating the data.
+
+Practical Use of Encapsulation: Encapsulation is employed in most real-world applications, 
+as is the case with banking systems, in which sensitive information, such as account balance, 
+are protected, and any changes are made through specific methods (example: deposit, withdrawal). 
+This ensures that the account balance cannot be directly changed inappropriately.
+
+Example:
+
+-----------------------------------------------------------------
+using System;
+
+class BankAccount
+{
+    private double balance; // Private attribute
+
+    public BankAccount(double initialBalance)
+    {
+        balance = initialBalance;
+    }
+
+    public void Deposit(double amount)
+    {
+        if (amount > 0)
+        {
+            balance += amount;
+        }
+    }
+
+    public void Withdraw(double amount)
+    {
+        if (amount > 0 && amount <= balance)
+        {
+            balance -= amount;
+        }
+    }
+
+    public double GetBalance()
+    {
+        return balance; // Returns the balance
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        BankAccount account = new BankAccount(1000);
+        account.Deposit(500);
+        account.Withdraw(200);
+        Console.WriteLine("Balance: " + account.GetBalance()); // Displays the final balance
+    }
+}
+
+-----------------------------------------------------------------------------------------------
+
+Explanation:
+
+Private attribute: The balance variable is private, 
+meaning it can't be accessed directly outside the class.
+
+Public methods: The methods Deposit, Withdraw, 
+and GetBalance are public, allowing controlled access to modify and view the balance.
