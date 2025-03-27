@@ -13,12 +13,12 @@ class Program
         {
             Console.Clear();
             Console.WriteLine(scripture.GetDisplayText());
-            Console.WriteLine("\nPress Enter to hide words or type 'quit' to exit.");
+            Console.WriteLine("\nPress Enter to hide one word or type 'quit' to exit.");
             string input = Console.ReadLine();
 
             if (input.ToLower() == "quit") break;
 
-            scripture.HideRandomWords(3); // Oculta 3 palavras aleatórias
+            scripture.HideRandomWords(1); // Hide only 1 word at a time when Enter is pressed
         }
 
         Console.Clear();
