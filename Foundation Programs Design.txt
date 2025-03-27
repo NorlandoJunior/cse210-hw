@@ -1,0 +1,135 @@
+YouTube Videos
+Class Diagram Elements:
+Video Class
+
+Attributes:
+
+title: string
+
+description: string
+
+duration: integer (in seconds)
+
+views: integer
+
+publishedDate: Date
+
+Behaviors:
+
+play(): starts playing the video
+
+pause(): pauses the video
+
+like(): increases the likes count
+
+comment(): allows users to comment on the video
+
+User Class
+
+Attributes:
+
+username: string
+
+email: string
+
+password: string
+
+Behaviors:
+
+login(): logs the user in
+
+subscribe(): subscribes the user to a channel
+
+comment(): comments on a video
+
+Channel Class
+
+Attributes:
+
+channelName: string
+
+subscribersCount: integer
+
+channelDescription: string
+
+Behaviors:
+
+uploadVideo(): uploads a new video to the channel
+
+deleteVideo(): deletes a video
+
+------------------------------------------------------------------------
+
+
+Online Ordering
+Class Diagram Elements:
+Customer Class
+
+Attributes:
+
+name: string
+
+email: string
+
+address: string
+
+phoneNumber: string
+
+Behaviors:
+
+placeOrder(): places an order
+
+addItemToCart(): adds an item to the cart
+
+removeItemFromCart(): removes an item from the cart
+
+Order Class
+
+Attributes:
+
+orderID: string
+
+orderDate: Date
+
+totalAmount: float
+
+status: string (e.g., "pending", "shipped")
+
+Behaviors:
+
+calculateTotal(): calculates the total amount of the order
+
+updateStatus(): updates the status of the order
+
+Product Class
+
+Attributes:
+
+productName: string
+
+price: float
+
+quantity: integer
+
+Behaviors:
+
+updateStock(): updates the product's stock quantity
+
+applyDiscount(): applies a discount to the product price
+
+Payment Class
+
+Attributes:
+
+paymentMethod: string (e.g., "credit card", "PayPal")
+
+paymentStatus: string (e.g., "successful", "failed")
+
+amountPaid: float
+
+Behaviors:
+
+processPayment(): processes the payment
+
+refund(): issues a refund
+
