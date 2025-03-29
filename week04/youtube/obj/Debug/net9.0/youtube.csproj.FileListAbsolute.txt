@@ -1,0 +1,15 @@
+C:\Programação\cse210-hw\week04\youtube\bin\Debug\net9.0\youtube.exe
+C:\Programação\cse210-hw\week04\youtube\bin\Debug\net9.0\youtube.deps.json
+C:\Programação\cse210-hw\week04\youtube\bin\Debug\net9.0\youtube.runtimeconfig.json
+C:\Programação\cse210-hw\week04\youtube\bin\Debug\net9.0\youtube.dll
+C:\Programação\cse210-hw\week04\youtube\bin\Debug\net9.0\youtube.pdb
+C:\Programação\cse210-hw\week04\youtube\obj\Debug\net9.0\youtube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\cse210-hw\week04\youtube\obj\Debug\net9.0\youtube.AssemblyInfoInputs.cache
+C:\Programação\cse210-hw\week04\youtube\obj\Debug\net9.0\youtube.AssemblyInfo.cs
+C:\Programação\cse210-hw\week04\youtube\obj\Debug\net9.0\youtube.csproj.CoreCompileInputs.cache
+C:\Programação\cse210-hw\week04\youtube\obj\Debug\net9.0\youtube.sourcelink.json
+C:\Programação\cse210-hw\week04\youtube\obj\Debug\net9.0\youtube.dll
+C:\Programação\cse210-hw\week04\youtube\obj\Debug\net9.0\refint\youtube.dll
+C:\Programação\cse210-hw\week04\youtube\obj\Debug\net9.0\youtube.pdb
+C:\Programação\cse210-hw\week04\youtube\obj\Debug\net9.0\youtube.genruntimeconfig.cache
+C:\Programação\cse210-hw\week04\youtube\obj\Debug\net9.0\ref\youtube.dll
