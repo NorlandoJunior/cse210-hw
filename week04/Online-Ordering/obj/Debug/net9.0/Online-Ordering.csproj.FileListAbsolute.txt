@@ -1,0 +1,15 @@
+C:\Programação\cse210-hw\week04\Online-Ordering\bin\Debug\net9.0\Online-Ordering.exe
+C:\Programação\cse210-hw\week04\Online-Ordering\bin\Debug\net9.0\Online-Ordering.deps.json
+C:\Programação\cse210-hw\week04\Online-Ordering\bin\Debug\net9.0\Online-Ordering.runtimeconfig.json
+C:\Programação\cse210-hw\week04\Online-Ordering\bin\Debug\net9.0\Online-Ordering.dll
+C:\Programação\cse210-hw\week04\Online-Ordering\bin\Debug\net9.0\Online-Ordering.pdb
+C:\Programação\cse210-hw\week04\Online-Ordering\obj\Debug\net9.0\Online-Ordering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\cse210-hw\week04\Online-Ordering\obj\Debug\net9.0\Online-Ordering.AssemblyInfoInputs.cache
+C:\Programação\cse210-hw\week04\Online-Ordering\obj\Debug\net9.0\Online-Ordering.AssemblyInfo.cs
+C:\Programação\cse210-hw\week04\Online-Ordering\obj\Debug\net9.0\Online-Ordering.csproj.CoreCompileInputs.cache
+C:\Programação\cse210-hw\week04\Online-Ordering\obj\Debug\net9.0\Online-Ordering.sourcelink.json
+C:\Programação\cse210-hw\week04\Online-Ordering\obj\Debug\net9.0\Online-Ordering.dll
+C:\Programação\cse210-hw\week04\Online-Ordering\obj\Debug\net9.0\refint\Online-Ordering.dll
+C:\Programação\cse210-hw\week04\Online-Ordering\obj\Debug\net9.0\Online-Ordering.pdb
+C:\Programação\cse210-hw\week04\Online-Ordering\obj\Debug\net9.0\Online-Ordering.genruntimeconfig.cache
+C:\Programação\cse210-hw\week04\Online-Ordering\obj\Debug\net9.0\ref\Online-Ordering.dll
