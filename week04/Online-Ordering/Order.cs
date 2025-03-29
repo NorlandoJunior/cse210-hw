@@ -57,4 +57,31 @@ public class Order
         CalculateTotal();
         Console.WriteLine($"Total Amount: ${_totalAmount}");
     }
+
+  
+    public void GeneratePackingLabel()
+    {
+        Console.WriteLine("\nPacking Label:");
+        Console.WriteLine($"Order ID: {_orderID}");
+        Console.WriteLine("Products:");
+
+        foreach (var product in _products)
+        {
+            Console.WriteLine($"- {product.GetProductName()} x {product.GetQuantity()}");
+        }
+
+        Console.WriteLine("Packed successfully!");
+    }
+
+    
+    public void GenerateShippingLabel()
+    {
+        Console.WriteLine("\nShipping Label:");
+        Console.WriteLine($"Order ID: {_orderID}");
+        Console.WriteLine($"Customer: {_customer.GetName()}");
+        Console.WriteLine($"Shipping Address: {_customer.GetAddress()}");
+        Console.WriteLine($"Phone Number: {_customer.GetPhoneNumber()}");
+        Console.WriteLine($"Shipping Status: {_status}");
+        Console.WriteLine("Ready for shipping!");
+    }
 }
