@@ -1,0 +1,15 @@
+C:\Programação\cse210-hw\week05\obj\Debug\net9.0\week05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\cse210-hw\week05\obj\Debug\net9.0\week05.AssemblyInfoInputs.cache
+C:\Programação\cse210-hw\week05\obj\Debug\net9.0\week05.AssemblyInfo.cs
+C:\Programação\cse210-hw\week05\obj\Debug\net9.0\week05.csproj.CoreCompileInputs.cache
+C:\Programação\cse210-hw\week05\obj\Debug\net9.0\week05.sourcelink.json
+C:\Programação\cse210-hw\week05\bin\Debug\net9.0\week05.exe
+C:\Programação\cse210-hw\week05\bin\Debug\net9.0\week05.deps.json
+C:\Programação\cse210-hw\week05\bin\Debug\net9.0\week05.runtimeconfig.json
+C:\Programação\cse210-hw\week05\bin\Debug\net9.0\week05.dll
+C:\Programação\cse210-hw\week05\bin\Debug\net9.0\week05.pdb
+C:\Programação\cse210-hw\week05\obj\Debug\net9.0\week05.dll
+C:\Programação\cse210-hw\week05\obj\Debug\net9.0\refint\week05.dll
+C:\Programação\cse210-hw\week05\obj\Debug\net9.0\week05.pdb
+C:\Programação\cse210-hw\week05\obj\Debug\net9.0\week05.genruntimeconfig.cache
+C:\Programação\cse210-hw\week05\obj\Debug\net9.0\ref\week05.dll
