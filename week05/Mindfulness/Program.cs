@@ -17,7 +17,6 @@ namespace MindfulnessApp
                 Console.WriteLine("4. Exit");
                 Console.Write("Choose an option: ");
                 string choice = Console.ReadLine();
-
                 MindfulnessActivity activity = choice switch
                 {
                     "1" => new BreathingActivity(),
@@ -25,7 +24,6 @@ namespace MindfulnessApp
                     "3" => new ListingActivity(),
                     _ => null
                 };
-
                 if (choice == "4") break;
                 activity?.Start();
             }

@@ -6,7 +6,15 @@ namespace Mindfulness
 {
     public abstract class MindfulnessActivity
     {
-        protected int duration;
+        protected int _duration;
+        protected string _name;
+        protected string _description;
+
+        public MindfulnessActivity(string name, string description)
+        {
+            _name = name;
+            _description = description;
+        }
 
         public void Start()
         {
@@ -19,17 +27,18 @@ namespace Mindfulness
 
         protected void DisplayStartingMessage()
         {
-            Console.WriteLine($"Starting {this.GetType().Name}...");
+            Console.WriteLine($"Starting {_name}...");
+            Console.WriteLine(_description);
             Console.Write("Enter duration in seconds: ");
-            duration = int.Parse(Console.ReadLine());
+            _duration = int.Parse(Console.ReadLine());
             Console.WriteLine("Get ready...");
             PauseWithAnimation(3);
         }
 
         protected void DisplayEndingMessage()
         {
-            Console.WriteLine("Great job! You've completed the activity.");
-            Console.WriteLine($"You spent {duration} seconds in {this.GetType().Name}.");
+            Console.WriteLine("\nGreat job! You've completed the activity.");
+            Console.WriteLine($"You spent {_duration} seconds in {_name}.");
             PauseWithAnimation(3);
         }
 
@@ -48,8 +57,10 @@ namespace Mindfulness
 
                 animationIndex = (animationIndex + 1) % animationStrings.Count;
             }
+
+            Console.WriteLine();
         }
 
         protected abstract void RunActivity();
     }
-}
+} 
