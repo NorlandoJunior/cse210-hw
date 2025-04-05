@@ -1,0 +1,38 @@
+Principle of Inheritance: 
+
+Inheritance is a fundamental principle in object-oriented programming that allows a class 
+(called a derived or child class) to inherit properties and behaviors from another class 
+(called a base or parent class). This promotes code reusability and makes it easier to maintain 
+and extend programs. Instead of writing repeated code in multiple classes, developers can 
+define common functionality once in the base class and allow other classes to reuse or 
+override it as needed.
+
+Benefits: 
+
+inheritance is that it helps create a clear and organized structure for your program, 
+reducing redundancy and improving scalability.
+
+Application:
+
+A good example is using a base class Vehicle and creating specific types like Car, 
+Bicycle, and Motorcycle. All of them share behaviors such as Start() or Stop(), 
+but each might implement them differently.
+
+Example in code:
+
+--------------------------------------------------------------------------------------
+public class Vehicle
+{
+    public void Start() => Console.WriteLine("Vehicle starting...");
+}
+
+public class Car : Vehicle
+{
+    public void Honk() => Console.WriteLine("Car honking!");
+}
+--------------------------------------------------------------------------------------
+
+Explanation:
+
+In this example, Car inherits the Start() method from Vehicle, so we don’t need to 
+redefine it. This makes the code more efficient and easier to maintain.
