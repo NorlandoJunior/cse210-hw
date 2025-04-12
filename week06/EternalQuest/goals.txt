@@ -1,0 +1,2 @@
+10
+SimpleGoal|run|run at 7:00 am|10|True
