@@ -1,0 +1,60 @@
+Abstraction
+
+Abstraction is the principle of hiding complex implementation details and showing only the essential 
+features of an object. It allows the programmer to focus on what an object does instead of how it does it.
+
+In my Exercise Tracking Program (Foundation #3), I used abstraction by creating a base class called 
+Activity. This class included abstract methods for calculating the distance, speed, and pace of an activity. The derived classes (Running, Cycling, and Swimming) provided specific implementations of these methods.
+
+Using abstraction made the program more flexible because it allowed me to define a common interface 
+for all activities, ensuring consistency. If the fitness center later wants to add a new activity like 
+rowing, I can simply create a new class that inherits from Activity and implements the same methods—without
+changing any of the existing code.
+
+----------------------------------------------------------------------------------------------------------
+
+Encapsulation
+
+Encapsulation is the principle of restricting direct access to an object's data and only exposing what 
+is necessary through methods. This helps protect the internal state of an object and prevent unintended 
+interference.
+
+In my program, I used encapsulation by making all member variables private or protected, and exposing 
+them through public methods when needed. For example, the _lengthInMinutes and _date fields in the Activity
+class were kept private, and access was provided through constructors and summary methods.
+
+Encapsulation made my program more robust and easier to maintain. If the internal representation of the 
+data changes in the future (like changing the way dates are stored), I can update it without affecting 
+other parts of the program that use the class.
+
+----------------------------------------------------------------------------------------------------------
+
+Inheritance
+
+Inheritance allows a class to acquire the properties and behaviors of another class. It enables code 
+reusability and hierarchical classification.
+
+In the Exercise Tracking Program, I used inheritance by creating a base Activity class and deriving
+specific activity types like Running, Cycling, and Swimming from it. All common data and methods—like 
+the date and duration—were defined in the Activity class, while specific logic for each activity was 
+placed in the derived classes.
+
+This made the program easier to expand and maintain. For example, if I need to change how summaries 
+are generated, I only have to update the base class once, and all derived classes benefit from the
+change without modifying each individually.
+
+ ----------------------------------------------------------------------------------------------------------
+
+Polymorphism
+
+Polymorphism allows objects of different types to be treated as instances of the same base type,
+typically through a shared interface. It also allows derived classes to override base class behavior.
+
+In my program, I implemented polymorphism by using abstract and virtual methods in the Activity class.
+Each activity type overrode these methods to provide custom logic for calculating distance, speed,
+and pace. I then stored all activity objects in a single list of type List<Activity> and called the 
+GetSummary method on each object—no matter its specific type.
+
+Polymorphism helped future-proof the program by allowing new activity types to be added with minimal
+changes to the existing code. As long as they implement the same methods, they can be used seamlessly
+wherever an Activity is expected.
