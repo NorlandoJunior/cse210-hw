@@ -1,0 +1,15 @@
+C:\Programação\cse210-hw\week07\AnimalSoundSim\obj\Debug\net9.0\AnimalSoundSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\cse210-hw\week07\AnimalSoundSim\obj\Debug\net9.0\AnimalSoundSim.AssemblyInfoInputs.cache
+C:\Programação\cse210-hw\week07\AnimalSoundSim\obj\Debug\net9.0\AnimalSoundSim.AssemblyInfo.cs
+C:\Programação\cse210-hw\week07\AnimalSoundSim\obj\Debug\net9.0\AnimalSoundSim.csproj.CoreCompileInputs.cache
+C:\Programação\cse210-hw\week07\AnimalSoundSim\obj\Debug\net9.0\AnimalSoundSim.sourcelink.json
+C:\Programação\cse210-hw\week07\AnimalSoundSim\bin\Debug\net9.0\AnimalSoundSim.exe
+C:\Programação\cse210-hw\week07\AnimalSoundSim\bin\Debug\net9.0\AnimalSoundSim.deps.json
+C:\Programação\cse210-hw\week07\AnimalSoundSim\bin\Debug\net9.0\AnimalSoundSim.runtimeconfig.json
+C:\Programação\cse210-hw\week07\AnimalSoundSim\bin\Debug\net9.0\AnimalSoundSim.dll
+C:\Programação\cse210-hw\week07\AnimalSoundSim\bin\Debug\net9.0\AnimalSoundSim.pdb
+C:\Programação\cse210-hw\week07\AnimalSoundSim\obj\Debug\net9.0\AnimalSoundSim.dll
+C:\Programação\cse210-hw\week07\AnimalSoundSim\obj\Debug\net9.0\refint\AnimalSoundSim.dll
+C:\Programação\cse210-hw\week07\AnimalSoundSim\obj\Debug\net9.0\AnimalSoundSim.pdb
+C:\Programação\cse210-hw\week07\AnimalSoundSim\obj\Debug\net9.0\AnimalSoundSim.genruntimeconfig.cache
+C:\Programação\cse210-hw\week07\AnimalSoundSim\obj\Debug\net9.0\ref\AnimalSoundSim.dll
