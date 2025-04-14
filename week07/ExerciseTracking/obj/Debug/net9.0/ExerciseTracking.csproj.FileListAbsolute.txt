@@ -1,0 +1,15 @@
+C:\Programação\cse210-hw\week07\ExerciseTracking\bin\Debug\net9.0\ExerciseTracking.exe
+C:\Programação\cse210-hw\week07\ExerciseTracking\bin\Debug\net9.0\ExerciseTracking.deps.json
+C:\Programação\cse210-hw\week07\ExerciseTracking\bin\Debug\net9.0\ExerciseTracking.runtimeconfig.json
+C:\Programação\cse210-hw\week07\ExerciseTracking\bin\Debug\net9.0\ExerciseTracking.dll
+C:\Programação\cse210-hw\week07\ExerciseTracking\bin\Debug\net9.0\ExerciseTracking.pdb
+C:\Programação\cse210-hw\week07\ExerciseTracking\obj\Debug\net9.0\ExerciseTracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\cse210-hw\week07\ExerciseTracking\obj\Debug\net9.0\ExerciseTracking.AssemblyInfoInputs.cache
+C:\Programação\cse210-hw\week07\ExerciseTracking\obj\Debug\net9.0\ExerciseTracking.AssemblyInfo.cs
+C:\Programação\cse210-hw\week07\ExerciseTracking\obj\Debug\net9.0\ExerciseTracking.csproj.CoreCompileInputs.cache
+C:\Programação\cse210-hw\week07\ExerciseTracking\obj\Debug\net9.0\ExerciseTracking.sourcelink.json
+C:\Programação\cse210-hw\week07\ExerciseTracking\obj\Debug\net9.0\ExerciseTracking.dll
+C:\Programação\cse210-hw\week07\ExerciseTracking\obj\Debug\net9.0\refint\ExerciseTracking.dll
+C:\Programação\cse210-hw\week07\ExerciseTracking\obj\Debug\net9.0\ExerciseTracking.pdb
+C:\Programação\cse210-hw\week07\ExerciseTracking\obj\Debug\net9.0\ExerciseTracking.genruntimeconfig.cache
+C:\Programação\cse210-hw\week07\ExerciseTracking\obj\Debug\net9.0\ref\ExerciseTracking.dll
